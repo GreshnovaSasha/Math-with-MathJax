@@ -1,5 +1,5 @@
 ---
-title: test #2
+title: test
 data: 2018-05-07
 ---
 
