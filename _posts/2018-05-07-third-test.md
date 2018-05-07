@@ -1,7 +1,7 @@
 ---
 title: third test
 data: 2018-05-07
-use_math: true
+usemathjax: true
 ---
 
 $$
